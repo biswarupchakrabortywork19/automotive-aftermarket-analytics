@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+!.env.example
+profiles.yml
+*.pem
+*.p8
+*.key
+dbt_automotive/target/
+dbt_automotive/logs/
+dbt_automotive/dbt_packages/
+.DS_Store
