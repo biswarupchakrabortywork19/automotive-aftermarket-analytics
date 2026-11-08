@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Automotive Aftermarket Analytics Platform
 
 A learning and portfolio project for the fictional AutoParts Intelligence Europe.
@@ -39,3 +40,6 @@ Verify current package compatibility, then install Python dependencies into
 `.venv`. Initialize Git and connect the intended GitHub repository. Configure
 Snowflake later, without committing credentials. No ingestion, source generators,
 Snowflake objects, or dbt models have been implemented or tested yet.
+=======
+# automotive-aftermarket-analytics
+>>>>>>> f830f5ca0322e42422b2488b8a6d78e9c48f9ff5
